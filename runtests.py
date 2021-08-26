@@ -24,7 +24,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
     SUBJECT_REQUISITION_MODEL=f"edc_metadata.subjectrequisition",
     # EDC_BLOOD_RESULTS_MODEL_APP_LABEL="edc_blood_results",
     LIST_MODEL_APP_LABEL="edc_dx_review",
-    EDC_DIAGNOSIS_LABELS={
+    EDC_DX_LABELS={
         HIV: "HIV",
         DM: "Diabetes",
         HTN: "Hypertension",
