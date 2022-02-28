@@ -23,6 +23,7 @@ setup(
     url="https://github.com/clinicedc/edc-dx-review",
     license="GPL license, see LICENSE",
     description="Classes to manage review of HIV, DM and HTN diagnoses",
+    long_description_content_type="text/x-rst",
     long_description=README,
     zip_safe=False,
     keywords="django edc glucose ifg ogtt",
