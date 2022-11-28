@@ -3,7 +3,7 @@
 edc diagnosis review
 --------------------
 
-Classes to manage review of HIV, DM and HTN diagnoses
+Classes to manage review of HIV, DM, HTN and Chol diagnoses
 
 
 Settings
