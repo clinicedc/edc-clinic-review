@@ -23,8 +23,8 @@ Settings
 .. |pypi| image:: https://img.shields.io/pypi/v/edc-dx-review.svg
     :target: https://pypi.python.org/pypi/edc-dx-review
 
-.. |actions| image:: https://github.com/clinicedc/edc-dx-review/workflows/build/badge.svg?branch=develop
-  :target: https://github.com/clinicedc/edc-dx-review/actions?query=workflow:build
+.. |actions| image:: https://github.com/clinicedc/edc-dx-review/actions/workflows/build.yml/badge.svg
+  :target: https://github.com/clinicedc/edc-dx-review/actions/workflows/build.yml
 
 .. |codecov| image:: https://codecov.io/gh/clinicedc/edc-dx-review/branch/develop/graph/badge.svg
   :target: https://codecov.io/gh/clinicedc/edc-dx-review
